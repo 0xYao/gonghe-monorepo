@@ -1285,7 +1285,7 @@ header .line {
   left: 0;
   right: calc(35% + 100px);
   height: 1px;
-  background: var(--black);
+  background: var(--white);
   display: none;
 }
 header.dark + main .header-in-main .line,
